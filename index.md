@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages 2
+## Skinalytics
 
-You can use the [editor on GitHub](https://github.com/mtemple76/skinalytics-home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Tools to make selecting skin care products more personalized, easier, and faster. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are using crowdsourced data about skin type, demographics, geography, and skin sensitivities to skin care products with a skin care product ingredient database to better understand contact irritant dermatitis, a form of dermatitis that might occur due to sensitization of your skin to an ingredient or ingredients in skin care products. We use analytics and machine learning to determine ingredients for you to avoid based on your skin type, demographics, and geography and others like you who have experienced skin reactions.  
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mtemple76/skinalytics-home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
