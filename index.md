@@ -1,4 +1,4 @@
-![Image of SKinalytics Logo](https://skinalytics.github.io/Images/LogoBlueGreenS4Font1dInv.jpg)
+![Image of Skinalytics Logo](https://skinalytics.github.com/Images/LogoBlueGreenS4Font1dInv.jpg)
 
 ## Skin care. Personalized. Easier. Faster.
 
