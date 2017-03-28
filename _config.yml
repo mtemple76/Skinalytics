@@ -1,4 +1,4 @@
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-slate
 title: Skinalytics 
 Header:
-  image: _Skinalytics/images/LogoBlueGreenS4Font1dInv.jpg
+  image: Images/LogoBlueGreenS4Font1dInv.jpg
