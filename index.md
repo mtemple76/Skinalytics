@@ -1,4 +1,3 @@
-<script data-cfasync="false" type="text/javascript" src="//filamentapp.s3.amazonaws.com/d2e02c4da049333b80e1fcf93c6ebe3d.js" async="async"></script>
 ![Image of Skinalytics Logo](Images/LogoBlueGreenS4Font1dInv72dpi.jpg)
 
 # Skin care. Personalized. Smarter. Easier.
