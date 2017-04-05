@@ -1,3 +1,5 @@
+<a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/share" class="twitter-share-button" data-text="Check out what Skinalytics is doing for customizable, safe use of skin care products! " data-hashtags="skincare, skin, skintype" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 # Skin care. Personalized. Smarter. Easier.
@@ -21,3 +23,5 @@ We are currently looking for participants that may be interested in joining our 
 This site is currently under construction. Please check back with us because we plan to have a live registration page for those interested in joining our sensitivie skin community by the beginning of Q3 of 2017. If you would like to provide comments or would like more information about our products, please contact us at
 
 **<info@skinalytics.me>**.
+Or message us on Twitter!
+<a href="https://twitter.com/messages/compose?recipient_id=SkinalyticsInfo" class="twitter-dm-button" data-screen-name="SkinalyticsInfo" data-show-count="false">Message @SkinalyticsInfo</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
