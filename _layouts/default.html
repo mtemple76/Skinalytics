@@ -15,16 +15,6 @@
   </head>
 
   <body>
-    <!-- Facebook Script -->
-    <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-   
     
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
@@ -40,12 +30,43 @@
               <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
             </section>
           {% endif %}
+    
+<div id="share-buttons">
+  <style type="text/css">
+ 
+#share-buttons img {
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
+ 
+</style>
           
-          <a href="https://twitter.com/share" class="twitter-share-button" data-text="Check out what Skinalytics is doing for customizable, safe use of skin care products! " data-hashtags="skincare, skin, skintype" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-  <div class="fb-share-button" data-href="http://www.skinalytics.me" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.skinalytics.me%2F&amp;src=sdkpreparse">Share</a></div>
+    
+      
+          <!-- Facebook -->
+    <a href="http://www.facebook.com/sharer.php?u=http://www.skinalytics.me" target="_blank">
+        <img src="/Images/facebook.png" alt="Facebook" />
+    </a>
           
-        </header>
+          <!-- LinkedIn -->
+    <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.skinalytics.me" target="_blank">
+        <img src="/Images/linkedin.png" alt="LinkedIn" />
+    </a>
+          
+            <!-- Twitter -->
+    <a href="https://twitter.com/share" data-text="Check out what Skinalytics is doing for customizable, safe use of skin care products! " data-url="http://www.skinalytics.me" data-hashtags="skincare, skin, skintype" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> target="_blank">
+        <img src="/Images/twitter.png" alt="Twitter" />
+          
+          <!-- Email -->
+    <a href="mailto:?Subject=Simple Share Buttons&amp;Body=I%20saw%20this%20and%20thought%20of%20you!%20 http://www.skinalytics.me">
+        <img src="/Images/email.png" alt="Email" />
+    </a>
+          
     </div>
+    
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
@@ -77,5 +98,4 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
-  </body>
-</html>
+
