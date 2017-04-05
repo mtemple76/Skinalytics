@@ -1,7 +1,3 @@
-<a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://twitter.com/share" class="twitter-share-button" data-text="Check out what Skinalytics is doing for customizable, safe use of skin care products! " data-hashtags="skincare, skin, skintype" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 # Skin care. Personalized. Smarter. Easier.
 
 Skinalytics is developing tools to help users select skin care products and avoid adverse skin reactions.
