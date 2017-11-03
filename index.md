@@ -19,6 +19,6 @@ We are currently looking for participants that may be interested in joining our 
 
 ## We are Constantly Improving.
 
-This site is currently under construction. Please check back with us because we plan to have a live registration page for those interested in joining our sensitivie skin community by the beginning of Q3 of 2017. If you would like to provide comments or would like more information about our products, please contact us at
+This site is currently under construction. Please check back with us because we plan to have a live registration page for those interested in joining our sensitive skin community by the beginning of Q1 of 2018. If you would like to provide comments or would like more information about our products, please contact us at
 
 **<info@skinalytics.me>**.
